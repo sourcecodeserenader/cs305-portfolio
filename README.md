@@ -13,7 +13,7 @@ I took the vulnerabilities seriously, treating each one as a gateway someone els
 ---
 
 ## 3. Which part of the vulnerability assessment was challenging or helpful to you?  
-The most challenging part was differentiating between critical and non-critical vulnerabilities - seeing beyond the surface and weighing the potential real-world impact of each flaw. That challenge was also the most rewarding because it deepened my discernment and sharpened my instincts.
+The most challenging part was differentiating between critical and noncritical vulnerabilities - seeing beyond the surface and weighing the potential real world impact of each flaw. That challenge was also the most rewarding because it deepened my discernment and sharpened my instincts.
 
 ---
 
