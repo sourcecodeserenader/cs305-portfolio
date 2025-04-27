@@ -8,12 +8,12 @@ Artemis Financial, a client centered around secure financial services, tasked us
 ---
 
 ## 2. What did you do well when you found your client's software security vulnerabilities?  
-I took the vulnerabilities seriously, treating each one as a gateway someone else could exploit if I left it untouched. I approached the findings methodically, patching issues while maintaining the software’s natural flow. Secure coding protects not just the product but the company’s identity — preserving trust, safeguarding livelihoods, and preventing collapse from breaches that often strike where eyes fail to see.
+I took the vulnerabilities seriously, treating each one as a gateway someone else could exploit if I left it untouched. I approached the findings methodically, patching issues while maintaining the software’s natural flow. Secure coding protects not just the product but the company’s identity - preserving trust, safeguarding livelihoods, and preventing collapse from breaches that often strike where eyes fail to see.
 
 ---
 
 ## 3. Which part of the vulnerability assessment was challenging or helpful to you?  
-The most challenging part was differentiating between critical and non-critical vulnerabilities — seeing beyond the surface and weighing the potential real-world impact of each flaw. That challenge was also the most rewarding because it deepened my discernment and sharpened my instincts.
+The most challenging part was differentiating between critical and non-critical vulnerabilities - seeing beyond the surface and weighing the potential real-world impact of each flaw. That challenge was also the most rewarding because it deepened my discernment and sharpened my instincts.
 
 ---
 
@@ -33,4 +33,4 @@ The most valuable practices were dependency checking through Maven plugins, chec
 ---
 
 ## 7. Employers sometimes ask for examples of work that you have successfully completed to show your skills, knowledge, and experience. What might you show future employers from this assignment?  
-I would showcase this project to demonstrate not just technical competency in code analysis and security mitigation, but also critical thinking, attention to detail, and documentation — all essential traits when protecting real-world systems that people trust with their lives and futures.
+I would showcase this project to demonstrate not just technical competency in code analysis and security mitigation, but also critical thinking, attention to detail, and documentation - all essential traits when protecting real-world systems that people trust with their lives and futures.
