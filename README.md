@@ -33,4 +33,4 @@ The most valuable practices were dependency checking through Maven plugins, chec
 ---
 
 ## 7. Employers sometimes ask for examples of work that you have successfully completed to show your skills, knowledge, and experience. What might you show future employers from this assignment?  
-I would showcase this project to demonstrate not just technical competency in code analysis and security mitigation, but also critical thinking, attention to detail, and documentation - all essential traits when protecting real-world systems that people trust with their lives and futures.
+I would showcase this project to demonstrate not just technical competency in code analysis and security mitigation, but also critical thinking, attention to detail, and documentation - all essential traits when protecting real world systems that people trust with their lives and futures.
