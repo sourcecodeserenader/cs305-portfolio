@@ -1,5 +1,9 @@
 # cs305-portfolio
+
 Portfolio repository for CS 305 Artemis Financial Security Reports
+
+---
+
 # CS 305 Module Eight Journal: Reflection and Portfolio Submission
 
 ## 1. Briefly summarize your client, Artemis Financial, and its software requirements.  
